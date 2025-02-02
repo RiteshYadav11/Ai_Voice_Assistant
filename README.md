@@ -23,20 +23,6 @@ This voice assistant offers three core features designed to optimize student wor
 
 * **Personalized Memory Functions:**  Enhances user interaction and time management by storing and retrieving personalized information.  This allows the assistant to remember important dates, deadlines, and other relevant details, providing timely reminders and facilitating efficient task organization.
 
-## Installation (Optional - Add if applicable)
-
-*(Provide instructions on how to set up and run the project.  Include any necessary dependencies and configuration steps.)*
-
-## Usage (Optional - Add if applicable)
-
-*(Describe how to interact with the voice assistant and use its features.  Include examples of voice commands and how to access the Focus Graph and Personalized Memory functions.)*
-
-## Future Enhancements (Optional - Add if applicable)
-
-*(Outline any planned future development or improvements for the project.)*
-
-## Contributing (Optional - Add if applicable)
-
 *(If the project is open-source, include information on how others can contribute.)*
 
 ## License (Optional - Add if applicable)
