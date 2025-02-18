@@ -30,18 +30,35 @@ Process: The development of the assistant involved leveraging PyTorch for deep l
 Details of Features:
 
 Assignment.py: Saves assignment details and sends reminders to help students stay on track with deadlines.
+
 Clap.py: Allows the assistant to be invoked with a clap, making it easy to interact without touch.
+
 FocusGraph.py: Visualizes the amount of time the user has focused, helping track productivity.
+
 FocusMode.py: Restricts access to distracting apps like YouTube and Instagram, ensuring users remain focused on their tasks.
+
 News.py: Provides the latest news updates, helping users stay informed.
+
 Open.py: Opens apps or websites on request, adding convenience to the assistant's functionality.
+
 ScheduleMyDay.py: Assists in scheduling the user’s day by setting reminders and organizing tasks.
+
 Score.py: Fetches and provides live cricket scores for sports enthusiasts.
+
 Screenshot.py: Takes screenshots upon command, capturing important information quickly.
+
 ShowMySchedule.py: Displays the user’s schedule for the day, helping with organization.
+
 SpeedTest.py: Checks internet speed, providing useful diagnostics.
+
 Wakeup.py: Listens for the "wakeup" keyword to activate the assistant when needed.
+
 Game.py: Includes various games like Tic-Tac-Toe and puzzles to entertain users during breaks.
+
 Keyboard.py: Provides typing practice to improve keyboard skills.
+
 PlayMusic.py: Plays music as requested, creating a more enjoyable atmosphere for users.
-Additional Project Details: The project is designed to be an all-in-one assistant that blends productivity features with entertainment and utility tools. Its modular structure allows for easy addition of more features, and its voice interaction capabilities make it a user-friendly tool for students. The assistant was developed to cater to the needs of students, offering a personalized, hands-free approach to task management and learning.
+
+Additional Project Details: The project is designed to be an all-in-one assistant that blends productivity features with entertainment and utility tools. Its 
+modular structure allows for easy addition of more features, and its voice interaction capabilities make it a user-friendly tool for students. The assistant was 
+developed to cater to the needs of students, offering a personalized, hands-free approach to task management and learning.
